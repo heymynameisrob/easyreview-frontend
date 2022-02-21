@@ -25,15 +25,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/review/[store]/[id]": [
+    "/dashboard": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/review/[store]/[id].js"
+      "static/chunks/pages/dashboard.js"
     ],
-    "/review/[store]/[id]/start": [
+    "/login": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/review/[store]/[id]/start.js"
+      "static/chunks/pages/login.js"
     ]
   },
   "ampFirstPages": []
